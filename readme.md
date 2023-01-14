@@ -8,7 +8,7 @@ I'm a computer science and mathematics undergrad at the University of Maryland, 
 
 **Here's some cool stuff that I've done:**
 - Co-authored a paper on a model nanoparticle anticancer drug delivery system. Utilized MATLAB and differential equations to simulate the motion of superparamagnetic nanoparticles in the bloodstream. (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.015104)
-- **High School Stuff:** Ran [MCA Science Bowl](https://mcasciencebowl.org/), a science competition for middle school students in Middlesex County, NJ. Captain for our school's Science Olympiad team. 
+- **High School Stuff:** Ran [MCA Science Bowl](https://mcasciencebowl.org/), a science competition for middle school students in Middlesex County, NJ. Was captain for our school's Science Olympiad team. 
 
 **Important Information:**
 Floppa is the cutest caracal in the world omg he's so cute. Please send me an email saying "ong" if you agree.
