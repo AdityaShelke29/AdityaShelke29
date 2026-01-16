@@ -1,7 +1,5 @@
 # Hi, I'm Aditya! 👋
-I'm a senior at the **University of Maryland, College Park**, studying computer science and mathematics with an additional minor in robotics and autonomous systems. 
-
-In my free time, I love to play the guitar, draw, watch anime, or go to the gym. Favorite animes are Attack on Titan and Steins;Gate. Also a big Star Wars fan.
+I'm a senior at the **University of Maryland, College Park**, studying computer science and mathematics with an additional minor in robotics and autonomous systems. In my free time, I enjoy singing in the UMD choir and going to the gym.
 
 **What am I up to?**
 - I am currently working on a P2P (peer to peer) live streaming application that uses WebRTC for medium sized group calls. Think Discord or Zoom calls, implemented with WebRTC without the need for a centralized server for stream data propagation. The interesting technical challenge with this project is scale. In naive implementations of a P2P video conferencing application, each peer must send its stream to all (n-1) other peers, and must download a stream from all (n-1) other peers. This is called a fully connected mesh or a fully connected network, and is highly inefficient at scale.
